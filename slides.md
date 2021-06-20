@@ -1,6 +1,6 @@
-Twitter without Twitter
-Facebook without Facebook
-SoundCloud without SoundCloud
+**Twitter without Twitter  
+Facebook without Facebook  
+SoundCloud without SoundCloud**
 
 Or: Distributed apps in the browser
 
@@ -14,51 +14,56 @@ Store a post history (tweets, blog posts) in a Merkle Tree Accumulator, and stor
 
 ---
 
-Why?: August 2019
+**Why?: August 2019**
 
-> Sunsetting Mercurial support in Bitbucket
+> Sunsetting Mercurial support in Bitbucket  
 > Tue, Aug 20, 2019, 11:44 AM
 >
 > After much consideration, we've decided to remove Mercurial support from Bitbucket Cloud and the API. Mercurial features and repositories will be officially removed from Bitbucket and its API on June 1, 2020.
 
-> Instaudio
+> Instaudio  
 > Instaudio has been shut down.
 >
 > Instaudio was a website where you could upload audio files, intended for creators to share their works in progress, collaborate, and so forth. It existed from May 2013 until September 2019.
 >
 > Thank you for everyone who used it as intended, it was a lot of fun. - Mich
 
-> [SoundCloud Users Revolt After Company Announces Plan to Limit Free Uploads](https://www.rollingstone.com/pro/features/soundcloud-users-revolt-after-company-announced-plans-to-limit-free-uploads-922928/)
+> [SoundCloud Users Revolt After Company Announces Plan to Limit Free Uploads](https://www.rollingstone.com/pro/features/soundcloud-users-revolt-after-company-announced-plans-to-limit-free-uploads-922928/)  
 > December 5, 2019 5:17PM ET
 >
 > On Monday, the streaming platform emailed its users about an impending cap on uploads. By Thursday, it had reversed course
 
 ---
 
-Why?: Mastodon
+**Why?: Mastodon**
+
 (Shot of [Mastodon](https://mastodon.social/) front page)
 
 ---
 
-Why?: Mastodon
+**Why?: Mastodon**
+
 (Shot of a [Mastodon](https://mastodon.social/) profile)
 
 ---
 
-Why?: Mastodon
+**Why?: Mastodon**
+
 (Shot of a [witches.town](https://witches.town), a defunct Mastodon server, showing an error page.)
 
 ---
 
 Three diagrams:
-> "Centralized" (Twitter): Many users connected to many users
-> "Federated" (Mastodon): Many servers connected to each other, many users who are connected to one server each
+> "Centralized" (Twitter): Many users connected to many users  
+> "Federated" (Mastodon): Many servers connected to each other, many users who are connected to one server each  
 > "Decentralized" (?): Many users connected to each other
 
 ---
 
 This is not a new idea
+
 (Freenet, diaspora\*, Hypercore/Dat/Beaker)
+
 It has never worked
 
 ---
@@ -90,7 +95,7 @@ Side note 2: Bitcoin will kill us all. Proof of Work causes global warming. This
 
 ---
 
-4 slides: Merkle Tree Accumulators
+4 slides: **Merkle Tree Accumulators**
 
 (Diagrams showing the Merkle tree in a Merkle Tree Accumulator, and how they change when the underlying content changes.)
 
@@ -104,11 +109,11 @@ ledger with high-profile
 social network participants
 as gateway nodes.
 
-* cf Stellar Consensus Protocol
+\* cf Stellar Consensus Protocol
 
 ---
 
-The P2P Network
+**The P2P Network**
 
 (Logos for WebRT and libp2p)
 
@@ -118,7 +123,7 @@ The P2P Network
 
 ---
 
-Next Steps
+**Next Steps**
 
 - Complete proof-of-concept
 - Add caching / content routing
@@ -133,7 +138,7 @@ Next Steps
 
 ---
 
-Resources
+**Resources**
 
 More about this:
 [https://mcclure.github.io/soapbox-2021](https://mcclure.github.io/soapbox-2021)

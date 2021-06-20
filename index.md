@@ -3,14 +3,14 @@ I gave a five-minute talk at GDC 2021 about a prototype I was working on. A link
 ## Talk content
 
 * [Text version of talk slides](slides.md)
-* [LibP2P+Preact sample program](https://github.com/mcclure/ts-hello/tree/libp2p-preact-unstable): Sorry, I haven't posted most of the source from my LibP2P project yet.
+* [LibP2P+Preact sample program](https://github.com/mcclure/ts-hello/tree/libp2p-preact-unstable): Sorry, this does almost nothing. I have a newer version of the demo but I haven't uploaded it yet. If you're reading this text and it's July, poke me on Twitter or something.
 
 ## Similar projects
 
 * [Mastodon](https://joinmastodon.org) (link goes to signup site)
 * [BeakerBrowser](https://beakerbrowser.com/)
 * [WebTorrent](https://webtorrent.io/)
-* [https://ipfs.io/](IPFS)
+* [IPFS](https://ipfs.io/)
 
 ## General resources
 
