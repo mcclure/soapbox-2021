@@ -1,8 +1,16 @@
-I gave a five-minute talk at GDC about a prototype I was working on. It ended with this URL and a suggestion that the proof-of-concept described in the talk would be at this URL. The proof of concept isn't ready yet. But:
+I gave a five-minute talk at GDC 2021 about a prototype I was working on. A link at the end promised more information at this URL, so here is some more information:
 
-## Source
+## Talk content
 
-[LibP2P+Preact sample program](https://github.com/mcclure/ts-hello/tree/libp2p-preact-unstable): Sorry, I haven't posted most of the source from my LibP2P project yet.
+* [Text version of talk slides](slides.md)
+* [LibP2P+Preact sample program](https://github.com/mcclure/ts-hello/tree/libp2p-preact-unstable): Sorry, I haven't posted most of the source from my LibP2P project yet.
+
+## Similar projects
+
+* [Mastodon](https://joinmastodon.org) (link goes to signup site)
+* [BeakerBrowser](https://beakerbrowser.com/)
+* [WebTorrent](https://webtorrent.io/)
+* [https://ipfs.io/](IPFS)
 
 ## General resources
 
