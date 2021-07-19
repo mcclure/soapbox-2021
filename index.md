@@ -1,9 +1,17 @@
-I gave a five-minute talk at GDC 2021 about a prototype I was working on. A link at the end promised more information at this URL, so here is some more information:
+I gave a five-minute talk at GDC 2021 about a prototype I was working on.
 
 ## Talk content
 
 * [Text version of talk slides](slides.md)
-* [LibP2P+Preact sample program](https://github.com/mcclure/ts-hello/tree/libp2p-preact-unstable): Sorry, this does almost nothing. I have a newer version of the demo but I haven't uploaded it yet. If you're reading this text and it's July, poke me on Twitter or something.
+
+## Demos
+
+The talk mentions a demo. Unfortunately, this demo isn't ready yet! However, I do have some LibP2P examples that contain some of the same code:
+
+* [Minimal LibP2P+Preact sample program](https://github.com/mcclure/ts-hello/tree/libp2p-preact-unstable): Connects to peers and lists them
+* [LibP2P+Preact DHT test](https://github.com/mcclure/ts-hello-bug/tree/dht-stream-garbage-bytes): This OUGHT to be a demo demonstrating looking someone up on the DHT by their public key, and sending some data back and forth. Unfortunately it doesn't work because when the stream opens, random garbage inserts itself in the stream and I'm not sure why! Uh... I'm filing a bug on libp2p. Actually using this bug may require watching console.log.
+
+I have a third demo, which actually contains an MTA implementation and a little social media AI, but I can't fix that demo until the second one works. Watch this space?
 
 ## Similar projects
 
